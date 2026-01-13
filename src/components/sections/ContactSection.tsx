@@ -18,8 +18,8 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    content: "info@elettilhospital.com",
-    link: "mailto:info@elettilhospital.com",
+    content: "elettilhospital@gmail.com",
+    link: "mailto:elettilhospital@gmail.com",
     color: "from-[#E84D3D] to-[#c74031]",
   },
   {
